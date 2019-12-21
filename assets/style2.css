@@ -1,0 +1,32 @@
+
+.gallery{
+    display: inline-block;
+    margin-top: 20px;
+}
+
+.thumbnail img {
+  height:auto;
+}
+table.dataTable thead tr {
+  background-color: #009999;
+  color: white;
+}
+.fancybox-inner .slide-title {
+    position: fixed;
+    top: 11px;
+    left: 50%;
+    transform: translate(-50%, -0%));
+  }
+table{
+  margin: 0 auto;
+  width: 100%;
+  clear: both;
+  border-collapse: collapse;
+  table-layout: fixed;
+  word-wrap:break-word;
+}
+#chart {
+	width: 100%;
+	height: auto;
+	margin: 0 auto
+}
